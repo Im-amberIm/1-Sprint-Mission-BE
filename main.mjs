@@ -15,11 +15,11 @@ import * as product from './api/productService.mjs';
 // article.getArticle(11);
 
 // - create new article
-article.createArticle({
-  image: '이미지주소',
-  content: '새리뷰입니다',
-  title: '새 리뷰',
-});
+// article.createArticle({
+//   image: '이미지주소',
+//   content: '새리뷰입니다',
+//   title: '새 리뷰',
+// });
 
 //- update an article by id
 // article.patchArticle(165, { title: '수정된 타이틀' });
